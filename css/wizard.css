@@ -1,0 +1,59 @@
+body {
+    font: 14px normal Verdana, Arial, sans-serif;
+}
+
+.main-container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header-centered {
+    text-align: center;
+}
+
+.summary {
+    background-color: rgb(238, 240, 240);
+}
+
+.header-centered {
+    text-align: center;
+}
+
+.summary h3 {
+    padding-top: 2em;
+    font-size: 1.4em;
+}
+
+.top-2 {
+    margin-top: 2em;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+/*.summary dl {
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 2em;
+}
+
+.summary dt {
+    font-weight: bold;
+    font-size: 1.2em;
+    float: left;
+    width: 30%;
+    clear: left;
+    text-align: right;
+    margin-top: 4px;
+}
+
+.summary dd {
+    float: left;
+    width: 40%;
+    margin-top: 5px;
+}*/
+
+/*.wizard-steps {
+
+}*/

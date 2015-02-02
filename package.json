@@ -1,0 +1,15 @@
+{
+  "name": "wizard",
+  "version": "0.1.0",
+  "description": "AppleID - Challenge 3 - The Wizard",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "author": "Aldo Herrera",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.7.4"
+  }
+}

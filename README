@@ -1,0 +1,18 @@
+AppleId - Challenge 3 - Wizard
+Solution by: Aldo Herrera
+
+Usage:
+
+In order to run and test this application you need to have node.js and NPM installed in your system.
+
+Run the following commands:
+
+npm install
+This will install the http-server dependency 
+
+npm start
+This will start a basic http-server running in this directory to serve the pages.
+
+To test the application use the following URL:
+http://localhost:8000/
+
